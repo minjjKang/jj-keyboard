@@ -1,0 +1,48 @@
+<resources>
+    <item type="id" name="vibration_strength" />
+    <item type="id" name="space_language_sensitivity" />
+    <item type="id" name="delete_gesture_sensitivity" />
+    <item type="id" name="key_word_suggestion_0" />
+    <item type="id" name="key_word_suggestion_1" />
+    <item name="key_q" type="id" /><item name="key_w" type="id" /><item name="key_e" type="id" />
+    <item name="key_r" type="id" /><item name="key_t" type="id" /><item name="key_y" type="id" />
+    <item name="key_u" type="id" /><item name="key_i" type="id" /><item name="key_o" type="id" />
+    <item name="key_p" type="id" /><item name="key_a" type="id" /><item name="key_s" type="id" />
+    <item name="key_d" type="id" /><item name="key_f" type="id" /><item name="key_g" type="id" />
+    <item name="key_h" type="id" /><item name="key_j" type="id" /><item name="key_k" type="id" />
+    <item name="key_l" type="id" /><item name="key_z" type="id" /><item name="key_x" type="id" />
+    <item name="key_c" type="id" /><item name="key_v" type="id" /><item name="key_b" type="id" />
+    <item name="key_n" type="id" /><item name="key_m" type="id" />
+    <item name="key_0" type="id" /><item name="key_1" type="id" /><item name="key_2" type="id" />
+    <item name="key_3" type="id" /><item name="key_4" type="id" /><item name="key_5" type="id" />
+    <item name="key_6" type="id" /><item name="key_7" type="id" /><item name="key_8" type="id" />
+    <item name="key_9" type="id" />
+    <item name="key_shift" type="id" /><item name="key_delete" type="id" />
+    <item name="key_space" type="id" /><item name="key_enter" type="id" />
+    <item name="key_language" type="id" /><item name="key_symbols" type="id" />
+    <item name="key_more_symbols" type="id" /><item name="key_letters" type="id" />
+    <item name="key_settings" type="id" /><item name="key_next_ime" type="id" />
+    <item name="key_preview" type="id" />
+    <item name="key_delete_forward" type="id" /><item name="key_cursor_left" type="id" />
+    <item name="key_cursor_right" type="id" /><item name="key_mode" type="id" />
+    <item name="key_hide" type="id" />
+    <item name="key_comma" type="id" /><item name="key_period" type="id" />
+    <item name="key_clipboard" type="id" /><item name="clipboard_panel" type="id" />
+    <item name="clipboard_pin_selected" type="id" /><item name="clipboard_delete_selected" type="id" />
+    <item name="resize_keyboard" type="id" />
+    <item name="resize_height" type="id" /><item name="resize_width" type="id" />
+    <item name="resize_done" type="id" /><item name="resize_cancel" type="id" /><item name="resize_reset" type="id" />
+    <item name="learning_tab_ko" type="id" /><item name="learning_tab_en" type="id" />
+    <item name="learning_profiles" type="id" /><item name="learning_status" type="id" />
+    <item name="learning_editor" type="id" /><item name="learning_prompt" type="id" />
+    <item name="learning_start" type="id" /><item name="learning_complete" type="id" />
+    <item name="learning_retry" type="id" /><item name="learning_skip" type="id" />
+    <item name="learning_finish" type="id" /><item name="learning_map" type="id" />
+    <item name="learning_key_detail" type="id" />
+    <item name="learning_workspace" type="id" />
+    <item name="learning_controls_hint" type="id" />
+    <item name="learning_reset_profile" type="id" /><item name="learning_delete_profile" type="id" />
+    <item name="learning_map_mode" type="id" /><item name="learning_distribution" type="id" />
+    <item name="learning_region_status" type="id" />
+    <item name="character_value" type="id" />
+</resources>

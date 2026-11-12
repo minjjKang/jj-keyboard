@@ -1,0 +1,17 @@
+.gradle/
+.kotlin/
+.tools/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+captures/
+/.codex-attachments/
+/.codex-remote-attachments/
+__pycache__/
+/docs/device-runs/
+/docs/device-visual-*/
+/docs/reference/
+/docs/tablet-debug/

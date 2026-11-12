@@ -1,0 +1,10 @@
+<resources>
+    <color name="settings_background">#101010</color>
+    <color name="settings_surface">#242424</color>
+    <color name="settings_text">#F5F5F5</color>
+    <color name="settings_caption">#BDBDBD</color>
+    <color name="settings_accent">#78AAFF</color>
+    <color name="settings_on_accent">#101010</color>
+    <color name="settings_divider">#393939</color>
+    <color name="settings_error">#FFB4AB</color>
+</resources>
